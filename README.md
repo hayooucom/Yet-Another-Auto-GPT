@@ -26,6 +26,9 @@ including screenshot of website , draw y=2x pic ,send to you ...
 
 helps you finish complex mission.
 
+example:
+
+![](https://github.com/hayooucom/Yet-Another-Auto-GPT/blob/main/img/draw.png?raw=true)
 
 
 - To generate python code finish your mission,you also can create task:
