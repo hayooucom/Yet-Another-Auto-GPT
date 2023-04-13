@@ -5,15 +5,30 @@ demo site :
 [https://ai.zyinfo.pro](https://ai.zyinfo.pro)
 
 
-this is implement of AGI chatGPT
+This is implement of AGI chatGPT
+
 https://github.com/youkpan/AGI-ChatGPT
 
-promopt cmmands:
+
+*usage promopt cmmands:
+
 taskset-{task name}@@{task describe}
 
-run task:
+
+*run task:
+
 task-{task name}@@param A@@param B ...
 
+repair task code:
+taskrepair-{task name}@@{prompt}
+
+
+[English command doc](https://docs.qq.com/doc/p/190a424fc89ace11c54543af8e127a241fe10c5d?u=403451cede784d1c82e357a25f1f8e28)
+
+
+commands CN doc:
+
+https://docs.qq.com/doc/DS1VTblp4U1lyZWds
 
 have fun.
 
