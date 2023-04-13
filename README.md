@@ -5,6 +5,11 @@ demo site :
 [https://ai.zyinfo.pro](https://ai.zyinfo.pro)
 
 
+you can select webbrowser plugin in plugin market.
+
+and tell the AI new mission.
+
+
 This is implement of AGI chatGPT
 
 https://github.com/youkpan/AGI-ChatGPT
